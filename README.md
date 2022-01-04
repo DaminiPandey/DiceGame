@@ -1,9 +1,12 @@
 # DiceGame
 
 Here's a simple game for dice lovers.
-Two players with their dice can roll at once, dice with the bigger number wins and is displayed on the screen.
+Two players with their dice can roll at once, dice with the bigger number wins 
+and is displayed on the screen.
 If both the dice has same number, it's displayed as draw.
-Here The Document Object Model(DOM) is used where we can see a particular attribute which can replace the source of the image used in html.
+Here The Document Object Model(DOM) is used where 
+we can see a particular attribute which can replace the source of the image used in html.
+
 
 ![dg1](https://user-images.githubusercontent.com/61384878/148027785-c33ae7c4-c45a-4c30-936d-d03ff0d14635.png)
 
